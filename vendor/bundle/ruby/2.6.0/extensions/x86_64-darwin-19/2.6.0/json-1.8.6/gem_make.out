@@ -1,0 +1,13 @@
+current directory: /Users/tq.khai/dev/af-proj/shanai-intra/practice/tutor_app/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+/Users/tq.khai/.rbenv/versions/2.6.3/bin/ruby -I /Users/tq.khai/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20201104-72593-ypioeb.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tq.khai/dev/af-proj/shanai-intra/practice/tutor_app/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/tq.khai/dev/af-proj/shanai-intra/practice/tutor_app/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/tq.khai/dev/af-proj/shanai-intra/practice/tutor_app/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
